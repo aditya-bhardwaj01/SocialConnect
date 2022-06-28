@@ -21,7 +21,7 @@ export default function Post() {
           <div className="footer">{postObject.username}</div>
         </div>
       </div>
-      <div className="rightSide">Comment Section</div>
+      <div className="rightSide">Comment Here</div>
     </div>
   )
 }
